@@ -9,6 +9,7 @@ The foundation course is for beginners to SQL. It covers:
 * the WHERE clause to filter data,
 * the ORDER BY clause to sort data,
 * creating calculated columns,
+* some date functions: DATEADD, DATEDIFF
 * the GROUP BY clause and aggregation functions such as COUNT() and SUM() to summarise data, and
 * an introduction to joining tables to return a dataset that combines data from more than one table.
 
